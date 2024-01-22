@@ -9,9 +9,7 @@ public class number {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
-		
 		String sNum = sc.next();
-		
 		char[] cNum = sNum.toCharArray();
 		
 		int sum = 0;
