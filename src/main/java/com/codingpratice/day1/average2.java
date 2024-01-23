@@ -2,7 +2,7 @@ package com.codingpratice.day1;
 
 import java.util.Scanner;
 
-public class average {
+public class average2 {
 
 	public static void main(String[] args) {
 		

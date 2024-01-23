@@ -2,7 +2,7 @@ package com.codingpratice.day1;
 
 import java.util.Scanner;
 
-public class number {
+public class number1 {
 
 	public static void main(String[] args) {
 
