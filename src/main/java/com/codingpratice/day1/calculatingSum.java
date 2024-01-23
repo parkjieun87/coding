@@ -24,8 +24,9 @@ public class calculatingSum {
 		
 		for(int q=0; q<quizNo; q++) {
 			stringTokenizer = new StringTokenizer(bufferedReader.readLine());
-			int i = Integer.parseInt(stringTokenizer.nextToken());
-			int j = Integer.parseInt(stringTokenizer.nextToken());
+			int i =  Integer.parseInt(stringTokenizer.nextToken());
+			int j =  Integer.parseInt(stringTokenizer.nextToken());
+			
 			System.out.println(S[j] - S[i-1]);
 		}
 	}
